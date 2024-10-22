@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "rails"
+gem "rails", ">= 7.0.0"
 gem "rake", ">= 11.1"
 gem "rack-proxy", require: false
 gem "semantic_range", require: false
