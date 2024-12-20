@@ -22,7 +22,7 @@
     "js-yaml": "^4.1.0",
     "path-complete-extname": "^1.0.0",
     "pnp-webpack-plugin": "^1.7.0",
-    "terser-webpack-plugin": "^5.2.4",
+    "terser-webpack-plugin": "^5.3.11",
     "webpack": "^5.53.0",
     "webpack-assets-manifest": "^5.0.6",
     "webpack-cli": "^4.8.0",
